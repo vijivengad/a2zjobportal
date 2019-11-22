@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.viji.JobPortal.model.job_apply" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/job_apply.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="206" x="405" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.viji.JobPortal.model.seeker_skillset" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/seeker_skillset.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="253" x="651" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.viji.JobPortal.model.skillset" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/skillset.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="276" width="229" x="944" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.viji.JobPortal.model.seeker" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/seeker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="696" width="221" x="1213" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.viji.JobPortal.model.experience_detail" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/experience_detail.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="636" width="246" x="1474" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.viji.JobPortal.model.job_post_skill_set" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/job_post_skill_set.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="276" width="246" x="1760" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.viji.JobPortal.model.employer" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/employer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="576" width="246" x="2046" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.viji.JobPortal.model.job_location" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/job_location.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="161" x="2332" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.viji.JobPortal.model.user_type" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/user_type.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="202" x="2533" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.viji.JobPortal.model.job_post" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/job_post.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="576" width="246" x="2775" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.viji.JobPortal.model.education_detail" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/education_detail.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="516" width="249" x="3061" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.viji.JobPortal.model.job_type" project="MyJobPortal" 
+    file="/MyJobPortal/src/main/java/com/viji/JobPortal/model/job_type.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="216" width="195" x="3350" y="-117"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
